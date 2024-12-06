@@ -5,20 +5,22 @@ export default function Home() {
     <div className="font-roboto">
       <main className="">
         <div className=" flex flex-col items-center justify-center gap-4 py-36 px-4 text-center bg-hero bg-cover bg-center text-white bg-black/50 bg-blend-multiply bg-fixed">
-          <h1 className="text-4xl font-bold font-roboto">
+          <h1 className="text-4xl font-bold font-roboto drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]">
             RENSON ACCOUNTING SOLUTIONS, LLC
           </h1>
 
-          <p className="text-lg font-bold">Life in the Tax Lane</p>
-          <div className="h-1 w-32 bg-red-600 my-6"></div>
+          <p className="drop-shadow-[0_1px_1px_rgba(0,0,0,0.8)] text-lg font-bold">
+            Life in the Tax Lane
+          </p>
+          <div className="drop-shadow-[0_1px_1px_rgba(0,0,0,0.8)] h-1 w-32 bg-red-600 my-6"></div>
 
           <a
-            className="text-lg font-bold bg-black text-white py-2 px-8 tracking-widest hover:bg-red-600 transition-colors duration-300"
+            className="text-lg font-bold bg-black text-white py-2 px-8 tracking-widest hover:bg-red-600 transition-colors duration-300 drop-shadow-[0_4px_4px_rgba(0,0,0,0.25)] rounded-lg"
             href="mailto:RensonTaxes@gmail.com"
           >
             Email Us
           </a>
-          <p className=" text-lg font-bold">
+          <p className="drop-shadow-[0_1px_1px_rgba(0,0,0,0.8)] text-lg font-bold">
             Contact us for a Free Consultation
           </p>
         </div>
@@ -55,20 +57,24 @@ export default function Home() {
         />
 
         <div className="flex flex-col items-center justify-center gap-4 py-12 px-4 text-center bg-hero bg-cover bg-center text-white bg-black/50 bg-blend-multiply bg-fixed">
-          <h1 className="text-4xl font-bold font-roboto uppercase">
+          <h1 className="drop-shadow-[0_1px_1px_rgba(0,0,0,0.8)] text-4xl font-bold font-roboto uppercase">
             Contact Us now
           </h1>
 
-          <p className="text-lg font-bold">We will get it done.</p>
-          <div className="h-1 w-32 bg-red-600 my-6"></div>
+          <p className="drop-shadow-[0_1px_1px_rgba(0,0,0,0.8)] text-lg font-bold">
+            We will get it done.
+          </p>
+          <div className="drop-shadow-[0_1px_1px_rgba(0,0,0,0.8)] h-1 w-32 bg-red-600 my-6"></div>
 
           <a
-            className="text-lg font-bold bg-black text-white py-2 px-8 tracking-widest hover:bg-red-600 transition-colors duration-300"
+            className="text-lg font-bold bg-black text-white py-2 px-8 tracking-widest hover:bg-red-600 transition-colors duration-300 drop-shadow-[0_4px_4px_rgba(0,0,0,0.25)] rounded-lg"
             href="mailto:RensonTaxes@gmail.com"
           >
             Email Us
           </a>
-          <p className=" text-lg font-bold">Call us at (954) 439-1758</p>
+          <p className="drop-shadow-[0_1px_1px_rgba(0,0,0,0.8)] text-lg font-bold">
+            Call us at (954) 439-1758
+          </p>
         </div>
         <div className="container mx-auto flex gap-8 flex-col">
           <p className="text-sm text-center p-4">
