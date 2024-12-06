@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="font-roboto">
       <main className="">
-        <div className=" flex flex-col items-center justify-center gap-4 py-36 px-4 text-center bg-hero bg-cover [@supports_not_(background-attachment:_fixed)]:bg-[length:200%] [@supports_not_(background-attachment:_fixed)]:bg-top bg-center text-white bg-black/50 bg-blend-multiply [@supports_not_(background-attachment:_fixed)]:bg-scroll bg-fixed">
+        <div className=" flex flex-col items-center justify-center gap-4 py-36 px-4 text-center bg-hero bg-cover bg-center text-white bg-black/50 bg-blend-multiply bg-cover bg-fixed">
           <h1 className="text-4xl font-bold font-roboto drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]">
             RENSON ACCOUNTING SOLUTIONS, LLC
           </h1>
@@ -56,7 +56,7 @@ export default function Home() {
           imageAlt="Tax Preparation"
         />
 
-        <div className="flex flex-col items-center justify-center gap-4 py-12 px-4 text-center bg-hero bg-cover [@supports_not_(background-attachment:_fixed)]:bg-[length:200%] [@supports_not_(background-attachment:_fixed)]:bg-top bg-center text-white bg-black/50 bg-blend-multiply [@supports_not_(background-attachment:_fixed)]:bg-scroll bg-fixed">
+        <div className="flex flex-col items-center justify-center gap-4 py-12 px-4 text-center bg-hero bg-cover bg-center text-white bg-black/50 bg-blend-multiply bg-cover bg-fixed">
           <h1 className="drop-shadow-[0_1px_1px_rgba(0,0,0,0.8)] text-4xl font-bold font-roboto uppercase">
             Contact Us now
           </h1>
