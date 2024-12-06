@@ -50,7 +50,7 @@ export default function Home() {
         <ServiceSection
           title="Tax Planning & Consulting"
           description="We analyze your business to find all of the legal tax loopholes that can save you tens of thousands of dollars per year in taxes!"
-          imageSrc="/Tax-planning.jpg"
+          imageSrc="/tax-planning.jpg"
           imageAlt="Tax Preparation"
         />
 
