@@ -8,9 +8,15 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        hero: "url('/Finish-Line-Pic.jpg')",
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+      },
+      fontFamily: {
+        roboto: ["Roboto", "sans-serif"],
       },
     },
   },
