@@ -16,7 +16,7 @@ export default function Home() {
 
           <a
             className="text-lg font-bold bg-black text-white py-2 px-8 tracking-widest hover:bg-red-600 transition-colors duration-300 drop-shadow-[0_4px_4px_rgba(0,0,0,0.25)] rounded-lg"
-            href="mailto:RensonTaxes@gmail.com"
+            href="https://form.jotform.com/243405604271045"
           >
             Email Us
           </a>
@@ -68,7 +68,7 @@ export default function Home() {
 
           <a
             className="text-lg font-bold bg-black text-white py-2 px-8 tracking-widest hover:bg-red-600 transition-colors duration-300 drop-shadow-[0_4px_4px_rgba(0,0,0,0.25)] rounded-lg"
-            href="mailto:RensonTaxes@gmail.com"
+            href="https://form.jotform.com/243405604271045"
           >
             Email Us
           </a>
