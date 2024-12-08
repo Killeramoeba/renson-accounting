@@ -1,7 +1,5 @@
 import ServiceSection from "./components/ServiceSection";
-import Button from "./components/Button";
 import BackgroundSection from "./components/BackgroundSection";
-import Divider from "./components/Divider";
 import Footer from "./components/Footer";
 
 export default function Home() {
